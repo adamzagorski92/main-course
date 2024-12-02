@@ -33,6 +33,10 @@ Komendy:
  - echo "tekst, który chcę dodać" >> nazwa-pliku.rozszerzenie // (dodaje tekst do już stworzonego pliku)
  - cat > nazwa-pliku.rozszerzenie // dodaje większy blok tekstu (po wpisaniu ctrl+D)
  - cat nazwa-pliku.rozszerzenie // listuje zawartość pliku 
+ - git status // listuje na jakim branches się aktualnie znajdujemy
+ - git log // możemy obejrzeć historię commitów
+ - git checkout nazwa-gałęzi // dodaje nową gałęź do projektu
+
 
 
  
