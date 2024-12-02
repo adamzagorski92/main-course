@@ -35,7 +35,12 @@ Komendy:
  - cat nazwa-pliku.rozszerzenie // listuje zawartość pliku 
  - git status // listuje na jakim branches się aktualnie znajdujemy
  - git log // możemy obejrzeć historię commitów
- - git checkout nazwa-gałęzi // dodaje nową gałęź do projektu
+ - git checkout -b nazwa-gałęzi // dodaje nową gałęź do projektu
+ - git checkout nazwa-gałęzi // przełącza na inna gałęź
+ - git diff // pokazuje różnice jakie zostały wprowadzone w plikach od ostatniego commita
+ - git diff branchOne..DifferentBranch // porównuje dwie gałęzie
+
+
 
 
 
